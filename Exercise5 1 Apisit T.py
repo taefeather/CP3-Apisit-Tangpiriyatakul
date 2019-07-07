@@ -1,0 +1,6 @@
+NumberOne = int(input("Please enter number1:"))
+NumberTwo = int(input("Please enter number2:"))
+print("%d + %d = %d"%(NumberOne,NumberTwo,NumberOne+NumberTwo))
+print("%d - %d = %d"%(NumberOne,NumberTwo,NumberOne-NumberTwo))
+print("%d * %d = %d"%(NumberOne,NumberTwo,NumberOne*NumberTwo))
+print("%d / %d = %d"%(NumberOne,NumberTwo,NumberOne/NumberTwo))
